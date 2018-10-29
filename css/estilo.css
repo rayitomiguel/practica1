@@ -5,3 +5,17 @@
     margin: 0 auto;
     background-color: yellow;
 }
+.clase2{
+    border:5px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: blue;
+}
+.clase3{
+    border:5px solid green;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: brown;
+}
